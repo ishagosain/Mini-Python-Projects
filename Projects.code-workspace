@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Projects",
+			"path": ".."
+		},
+		{
+			"name": "Mini-Python-Projects",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
